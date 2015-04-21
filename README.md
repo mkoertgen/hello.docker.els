@@ -1,6 +1,6 @@
 # hello.docker.els
 
-An quick experiment to provision [ElasticSearch](https://registry.hub.docker.com/_/elasticsearch/) using vagrant and docker.
+A quick experiment to provision [ElasticSearch](https://registry.hub.docker.com/_/elasticsearch/) using vagrant and docker.
 
 ## Prerequisites
 
